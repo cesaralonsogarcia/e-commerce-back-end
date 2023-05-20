@@ -28,7 +28,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 Click on the image to see the walkthrough video:
 
-[<img src=''>](https://watch.screencastify.com/v/E8iGSyoJc6RPxksjUQWB "E-commerce Back End")
+[<img src='https://github.com/cesaralonsogarcia/e-commerce-back-end/blob/main/public/images/e-commerce-back-end.png'>](https://watch.screencastify.com/v/E8iGSyoJc6RPxksjUQWB "E-commerce Back End")
 
 ## GitHub Repository
 
